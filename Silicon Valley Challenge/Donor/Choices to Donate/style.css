@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+     background-color: #00bbff;
+    font-family: 'Homenaje', sans-serif;
+}
+
+button{
+    width: 150px;
+    height: 100px;
+    background-color: rgba(0, 255, 106, 0.82);
+    border-style: solid;
+    border-color: black;
+    font-family: 'Homenaje', sans-serif;
+    font-size: 25px;
+}
